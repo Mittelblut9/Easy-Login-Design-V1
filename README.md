@@ -1,5 +1,5 @@
 <p align="center">
- <img width=auto height=200px src="https://www.blackdayz.de/src/img/logo/BlackDayzLogo.png" alt="Project logo">
+ <img width=auto height=200px src="https://www.blackdayz.de/img/logo" alt="Project logo">
 </p>
 
 <h1 align="center">Easy-Login-Design-V1</h1>
